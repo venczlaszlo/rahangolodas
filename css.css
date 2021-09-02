@@ -1,0 +1,48 @@
+body {
+    background-image: url("background.jpg");
+    background-color: #cccccc;
+    background-repeat: no-repeat;
+    background-size: cover;
+   }
+
+h1{
+    font-style: sans-serif;
+    font-size: 60px;
+    color: #fc5185;
+    text-align:center;
+    }
+h2{
+    color: #3fc1c9;
+    padding-left: 125px;
+    font-size: 50px;
+    font-style: sans-serif;
+}
+
+h3{
+    color: #364f6b;
+    font-size: 30px;
+    font-style: sans-serif;
+    text-align: justify;
+    padding-left: 125px;
+    padding-right: 125px;
+}
+
+table, th, td {
+    border: 0px solid black;
+    width: 80%; 
+    background-color: rgba(233, 233, 233, 0.616);
+}
+
+img{
+    padding-left: 125px;
+    padding-right: 125px;
+    padding-bottom: 25px;
+    height: 700px;
+    width: 1250px;
+}
+
+h4{
+    font-size: 25px;
+    color: #364f6b;
+    font-style: sans-serif;
+}
